@@ -1,0 +1,5 @@
+paths:
+  db_path: ./data/NYC_taxi.db
+  model_path: ./models/NYC_taxi.model
+ml:
+  random_state: 42
